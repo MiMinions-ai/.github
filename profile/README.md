@@ -36,13 +36,11 @@ MiMinions is a **modular AI agent framework** for building intelligent assistant
 pip install miminions
 ```
 
-## 📦 Core Projects
+## 📦 Projects
 
 | Project | Description |
 |---------|-------------|
-| [**MiMinions**](https://github.com/MiMinions-ai/MiMinions) | Core framework & SDK |
-| [**nanobot-env**](https://github.com/MiMinions-ai/nanobot-env) | Runtime environment |
-| [**infra**](https://github.com/MiMinions-ai/infra) | Infrastructure & deployment |
+| [**MiMinions**](https://github.com/MiMinions-ai/MiMinions) | Core agent framework & SDK |
 
 ## 🌐 Links
 
