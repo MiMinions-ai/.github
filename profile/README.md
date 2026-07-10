@@ -18,7 +18,6 @@ MiMinions is a **modular AI agent framework** for building intelligent assistant
 
 - 🛠️ **Use tools** — File I/O, web search, APIs, and more
 - 🧠 **Remember context** — Persistent memory across sessions  
-- 🔌 **Connect anywhere** — MCP protocol support for extensibility
 - 🤝 **Work together** — Multi-agent orchestration
 
 ## 🎨 Our Colors
@@ -40,7 +39,7 @@ pip install miminions
 
 | Project | Description |
 |---------|-------------|
-| [**MiMinions**](https://github.com/MiMinions-ai/MiMinions) | Core agent framework & SDK |
+| [**MiMinions**](https://github.com/MiMinions-ai/MiMinions) | Core agent framework & cli |
 
 ## 🌐 Links
 
